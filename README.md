@@ -20,7 +20,7 @@
 
 ## 🛠️ Technologies & Tools
 
- ** 💻 Programming Languages **
+ ### 💻 Programming Languages 
 
 <div display = "inline">
 <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -29,7 +29,7 @@
 </div>
 
 
-** 🌐 Web Development **
+### 🌐 Web Development 
 
 <div display = "inline">
   <img  width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -38,13 +38,14 @@
 </div>
 
 
-** 🗃️ Databases **
+### 🗃️ Databases 
 
 <div display = "inline">
   <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </div>
 
-<div>
-  <img widht = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />  GitHub Stats
-</div>
+
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f5441c42-7900-4744-b4c3-aa748b495f31" /> Contact
+
+

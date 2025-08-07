@@ -46,6 +46,6 @@
 </div>
 
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f5441c42-7900-4744-b4c3-aa748b495f31" /> Contact
-
+## 📩 Contact 
+- Email: periclescairess@gmail.com
 

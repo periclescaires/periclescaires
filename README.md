@@ -11,10 +11,9 @@
 ## 📌 About Me
 
 ### 🎓 Student of Systems Analysis and Development at IF Baiano <br>
-### 🔍 Interested in software engineering, system logic, and clean architecture <br>
-### 🛠️ Exploring areas like backend development, automation, and data handling <br>
-### 📚 Committed to constant learning and building projects that matter <br>
-### 🌐 Motivated by real-world challenges and how tech can solve them <br> 
+### 🔍 Interested about coding,, system logic, and clean codes <br>
+### 🛠️ Exploring areas like frontend development and creating interactive web interfaces <br>
+### 📚 Committed to constant learning and building projects <br>
 
 ---
 

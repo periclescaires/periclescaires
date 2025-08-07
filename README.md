@@ -46,5 +46,5 @@ I'm Péricles Caires, currently studying Systems Analysis and Development at IF 
 </div>
 
 <div>
-  <img widht = "25" heigth = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />  GitHub Stats
+  <img widht = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />  GitHub Stats
 </div>

@@ -1,8 +1,11 @@
 Hi there 👋
 
+
 👋 Hey, I'm Péricles Caires | Student, Tech Enthusiast & Software Developer in Training 
 
+
 I'm Péricles Caires, currently studying Systems Analysis and Development at IF Baiano. I'm driven by a passion for technology and its ability to create smart, scalable, and efficient solutions to everyday problems. I believe in the power of continuous learning and enjoy turning ideas into code that works.
+
 
 
 
@@ -15,6 +18,8 @@ I'm Péricles Caires, currently studying Systems Analysis and Development at IF 
 🌐 Motivated by real-world challenges and how tech can solve them <br> 
 
 
+
+
 💻 Programming Languages
 
 <div display = "inline">
@@ -24,13 +29,12 @@ I'm Péricles Caires, currently studying Systems Analysis and Development at IF 
 </div>
 
 
-🌐 Web Development font size = 25
+🌐 Web Development 
 
 <div display = "inline">
   <img  width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 </div>
 
 

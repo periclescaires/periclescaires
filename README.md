@@ -44,6 +44,15 @@
   <img width = "50" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact&theme=tokyonight" />
+</div>
+
+---
 
 ## 📩 Contact 
 - Email: periclescairess@gmail.com

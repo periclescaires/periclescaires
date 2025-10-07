@@ -49,10 +49,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=periclescaires)](https://github.com/anuraghazra/github-readme-stats) />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclescaires&layout=compact"/>
 </div>
 
----
+
+
 
 ## 📩 Contact 
 - Email: periclescairess@gmail.com
